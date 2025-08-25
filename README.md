@@ -72,7 +72,7 @@
 ### 📫 Let’s Connect!
 
 <p align="center">
-  <a href="mailto:ikyappmastering.com">
+  <a href="mailto:ikyappmastering@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/gilangrizky_000/profilecard/" target="_blank">
