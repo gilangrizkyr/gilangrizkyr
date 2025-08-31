@@ -80,5 +80,6 @@
   </a>
 </p>
 
+<hr style="border: 0; height: 3px; background: linear-gradient(to right, #ff4e50, #f9d423); margin: 30px 0;" />
 ### 👇 Pinned, currently under development 
 
