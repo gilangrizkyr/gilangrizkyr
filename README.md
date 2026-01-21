@@ -32,7 +32,7 @@
 
 ```javascript
 const gilang = {
-    name: "Gilang Rizky Ramadhan",
+    name: "Gilang Rizky",
     location: "Kalimantan Barat, Pontianak 🇮🇩",
     role: "Full Stack Developer",
     passions: ["Web Development", "AI Integration", "Computer Vision", "Backend Architecture"],
