@@ -227,19 +227,6 @@ goals_2026:
 
 <div align="center">
 
-### 💝 Support My Work
-
-If you find my projects helpful, consider supporting me! ☕
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gilangrizkyr)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/gilangrizkyr)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
 **📊 This Week I Spent My Time On:**
 
 ```text
