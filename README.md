@@ -121,9 +121,7 @@ const gilang = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilangrizkyr&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff4e50&text_color=c9d1d9"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilangrizkyr&theme=radical&hide_border=true&background=0d1117&stroke=ff4e50&ring=ff4e50&fire=efd65b&currStreakLabel=efd65b" alt="GitHub Streak" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gilangrizkyr&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=ff4e50&line=efd65b&point=ff4e50" width="100%"/>
