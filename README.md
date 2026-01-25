@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- 
 ██████╗ ██╗██╗      █████╗ ███╗   ██╗ ██████╗     ██████╗ ██╗███████╗██╗  ██╗██╗   ██╗
 ██╔════╝ ██║██║     ██╔══██╗████╗  ██║██╔════╝     ██╔══██╗██║╚══███╔╝██║ ██╔╝╚██╗ ██╔╝
@@ -126,8 +128,6 @@ const gilang = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gilangrizkyr&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=ff4e50&line=efd65b&point=ff4e50" width="100%"/>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
