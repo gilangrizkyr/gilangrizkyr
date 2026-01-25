@@ -236,35 +236,6 @@ goals_2026:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-
-**📊 This Week I Spent My Time On:**
-
-```text
-💻 Programming Languages:
-PHP              12 hrs 30 mins  ███████████░░░░   45.2%
-JavaScript       8 hrs 15 mins   ████████░░░░░░░   29.8%
-Python           4 hrs 20 mins   ████░░░░░░░░░░░   15.7%
-HTML/CSS         2 hrs 35 mins   ██░░░░░░░░░░░░░    9.3%
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-### 🔥 Streak Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gilangrizkyr&theme=radical&hide_border=true&stroke=ff4e50&ring=ff4e50&fire=efd65b&currStreakLabel=efd65b&background=0d1117" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
   
