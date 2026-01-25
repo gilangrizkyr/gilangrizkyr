@@ -21,10 +21,10 @@
 <div align="center">
   
   <!--[![Profile Views](https://komarev.com/ghpvc/?username=gilangrizkyr&color=ff4e50&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/gilangrizkyr)-->
-  ![Profile Views](https://img.shields.io/badge/Profile%20Views-39.2k-ff4e50?style=for-the-badge)
+ [![Profile Views](https://img.shields.io/badge/Profile%20Views-39.2k-ff4e50?style=for-the-badge)](https://github.com/gilangrizkyr)
 
   [![GitHub followers](https://img.shields.io/github/followers/gilangrizkyr?style=for-the-badge&color=ff4e50&labelColor=1a1a1a)](https://github.com/gilangrizkyr?tab=followers)
-  [![GitHub stars](https://img.shields.io/github/stars/gilangrizkyr?style=for-the-badge&color=efd65b&labelColor=1a1a1a)](https://github.com/gilangrizkyr)
+ <!-- [![GitHub stars](https://img.shields.io/github/stars/gilangrizkyr?style=for-the-badge&color=efd65b&labelColor=1a1a1a)](https://github.com/gilangrizkyr)-->
   
 </div>
 
