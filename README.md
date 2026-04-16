@@ -1,251 +1,267 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- 
-██████╗ ██╗██╗      █████╗ ███╗   ██╗ ██████╗     ██████╗ ██╗███████╗██╗  ██╗██╗   ██╗
-██╔════╝ ██║██║     ██╔══██╗████╗  ██║██╔════╝     ██╔══██╗██║╚══███╔╝██║ ██╔╝╚██╗ ██╔╝
-██║  ███╗██║██║     ███████║██╔██╗ ██║██║  ███╗    ██████╔╝██║  ███╔╝ █████╔╝  ╚████╔╝ 
-██║   ██║██║██║     ██╔══██║██║╚██╗██║██║   ██║    ██╔══██╗██║ ███╔╝  ██╔═██╗   ╚██╔╝  
-╚██████╔╝██║███████╗██║  ██║██║ ╚████║╚██████╔╝    ██║  ██║██║███████╗██║  ██╗   ██║   
- ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   
--->
-
 <div align="center">
-  <img src="img/3.gif" alt="Header Banner" width="100%" />
+
+<!-- 3D HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=3d&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Gilang%20Rizky&fontSize=70&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Backend%20Architect&descSize=18&descAlignY=62&descColor=a0aec0" width="100%" />
+
 </div>
 
+<!-- TYPING ANIMATION -->
 <div align="center">
-  
-  <!-- Dynamic Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FF4E50&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Backend+Architect+%F0%9F%8F%97%EF%B8%8F;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Code+Craftsman+%E2%9C%A8" alt="Typing SVG" />
-  
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=800&color=00D9FF&background=0D111700&center=true&vCenter=true&random=false&width=700&height=60&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time;%F0%9F%A4%96+AI+%26+Computer+Vision+Explorer;%F0%9F%8F%97%EF%B8%8F+Backend+Architect+%26+API+Craftsman;%E2%9C%A8+Turning+Coffee+into+Clean+Code;%F0%9F%8C%8F+Full+Stack+Developer+from+Indonesia" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  
-  <!--[![Profile Views](https://komarev.com/ghpvc/?username=gilangrizkyr&color=ff4e50&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/gilangrizkyr)-->
- [![Profile Views](https://img.shields.io/badge/Profile%20Views-42.4k-ff4e50?style=for-the-badge)](https://github.com/gilangrizkyr)
+<br/>
 
-  [![GitHub followers](https://img.shields.io/github/followers/gilangrizkyr?style=for-the-badge&color=ff4e50&labelColor=1a1a1a)](https://github.com/gilangrizkyr?tab=followers)
- <!-- [![GitHub stars](https://img.shields.io/github/stars/gilangrizkyr?style=for-the-badge&color=efd65b&labelColor=1a1a1a)](https://github.com/gilangrizkyr)-->
-  
+<!-- SOCIAL BADGES ROW -->
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-gilang--rizky.vercel.app-00d9ff?style=for-the-badge&labelColor=0d1117)](https://gilang-rizky.vercel.app/)
+[![Email](https://img.shields.io/badge/📧_Email-ikyappmastering@gmail.com-ff4e50?style=for-the-badge&labelColor=0d1117)](mailto:ikyappmastering@gmail.com)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-@gilangrizky__000-e1306c?style=for-the-badge&labelColor=0d1117)](https://www.instagram.com/gilangrizky_000/)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-gilangrizkyr-ffffff?style=for-the-badge&labelColor=0d1117)](https://github.com/gilangrizkyr)
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
-## 🎯 About Me
+---
 
-```javascript
-const gilang = {
-    name: "Gilang Rizky",
-    location: "Kalimantan Barat, Pontianak 🇮🇩",
-    role: "Full Stack Developer",
-    passions: ["Web Development", "AI Integration", "Computer Vision", "Backend Architecture"],
-    currentFocus: "Building AI-powered applications & scalable web solutions",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄",
-    lifePhilosophy: "Code is poetry written in logic",
-    
-    code: {
-        languages: ["PHP", "JavaScript", "Python", "HTML", "CSS"],
-        frameworks: ["Laravel", "CodeIgniter", "Express.js", "Node.js"],
-        databases: ["MySQL", "PostgreSQL", "MongoDB"],
-        tools: ["Git", "Docker", "VS Code", "Postman"],
-        aiTools: ["Computer Vision", "AI Voice Assistant"]
-    },
-    
-    currentProjects: [
-        "🤖 AI Voice Assistant System",
-        "📊 Quantura - AI-Integrated Management System", 
-        "🏫 School Portal Application",
-        "📝 Laporin - Reporting System"
-    ],
-    
-    currentlyLearning: ["React.js", "Vue.js", "AI/ML Integration", "Microservices"],
-    askMeAbout: ["Web Dev", "Backend", "API Design", "AI Integration"],
-    reachMe: "ikyappmastering@gmail.com"
+## ◈ WHO AM I?
+
+<table>
+<tr>
+<td width="55%">
+
+```typescript
+const developer = {
+  name        : "Gilang Rizky Ramadhan",
+  alias       : "iky / gilang",
+  location    : "🇮🇩 Pontianak, Kalimantan Barat",
+  role        : "Full Stack Developer",
+  available   : true, // open to opportunities!
+
+  stack: {
+    languages : ["PHP", "JavaScript", "Python"],
+    frontend  : ["React", "Next.js", "Vite", "Bootstrap"],
+    backend   : ["Laravel", "CodeIgniter", "Node.js", "Express"],
+    database  : ["MySQL", "PostgreSQL", "MongoDB"],
+    devops    : ["Docker", "Git", "Linux"],
+    ai        : ["Computer Vision", "Voice AI", "ML Integration"]
+  },
+
+  philosophy  : "Code is poetry written in logic 🖋️",
+  funFact     : "console.log() is my best debugger 😄",
+  currentRead : "Clean Architecture — Robert C. Martin",
+  contact     : "ikyappmastering@gmail.com"
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</td>
+<td width="45%" align="center">
 
-## 🛠️ Tech Arsenal
+<img src="https://github-readme-stats.vercel.app/api?username=gilangrizkyr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff4e50&text_color=c9d1d9&ring_color=00d9ff" width="100%"/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=gilangrizkyr&color=00d9ff&style=flat-square&label=👁️+Profile+Views)
+&nbsp;
+[![GitHub Followers](https://img.shields.io/github/followers/gilangrizkyr?label=Followers&style=flat-square&color=ff4e50)](https://github.com/gilangrizkyr)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ TECH ARSENAL
 
 <div align="center">
 
-<!--### 💎 Core Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)-->
+### 🧬 Languages
+<img src="https://skillicons.dev/icons?i=php,js,python,ts,html,css&theme=dark&perline=6" />
 
-### 🚀 Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-
-### 🔌 Api & Backend
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=swagger&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
+### ⚡ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,express,vite&theme=dark&perline=6" />
+<br/>
+<img src="https://skillicons.dev/icons?i=vue,redux,bootstrap,tailwind&theme=dark&perline=6" />
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-2E7D32?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark&perline=6" />
 
+### 🛠️ Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark&perline=6" />
 
+### 🤖 AI / Emerging Tech
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch&theme=dark&perline=6" />
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilangrizkyr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff4e50&icon_color=efd65b&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilangrizkyr&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff4e50&text_color=c9d1d9"/>
-</div>
-
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gilangrizkyr&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=ff4e50&line=efd65b&point=ff4e50" width="100%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💼 What I'm Up To
-
-```yaml
-current_projects:
-  - name: "AI Voice Assistant"
-    description: "Building intelligent voice-controlled applications"
-    tech: ["Python", "AI/ML", "Speech Recognition"]
-    
-  - name: "Quantura Management System"
-    description: "AI-integrated product management platform for enterprises"
-    tech: ["JavaScript", "AI Integration", "Backend"]
-    
-  - name: "School Portal"
-    description: "Comprehensive educational management system"
-    tech: ["JavaScript", "Web Development"]
-    
-  - name: "Computer Vision Projects"
-    description: "Exploring image processing and CV applications"
-    tech: ["Python", "OpenCV", "Deep Learning"]
-
-learning_focus:
-  - "Advanced React patterns & state management"
-  - "AI/ML model integration in web apps"
-  - "Microservices architecture"
-  - "Computer Vision algorithms"
-  
-reading: "Clean Architecture by Robert C. Martin"
-hobbies: ["Coding", "AI Research", "Tech blogging", "Open source", "Coffee ☕"]
-
-goals_2026:
-  - "Launch 3 AI-powered SaaS products"
-  - "Contribute to major open source projects"
-  - "Master Computer Vision & Deep Learning"
-  - "Build production-grade AI systems"
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/gilangrizkyr/Quantura">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gilangrizkyr&repo=Quantura&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff4e50&icon_color=efd65b&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/gilangrizkyr/Ai--Voice-Asissten">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gilangrizkyr&repo=Ai--Voice-Asissten&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff4e50&icon_color=efd65b&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/gilangrizkyr/School-Portal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gilangrizkyr&repo=School-Portal&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff4e50&icon_color=efd65b&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/gilangrizkyr/computer-vision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gilangrizkyr&repo=computer-vision&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff4e50&icon_color=efd65b&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/gilangrizkyr/Laporin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gilangrizkyr&repo=Laporin&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff4e50&icon_color=efd65b&text_color=c9d1d9" />
-</a>
-
-</div>
-
-### 🔥 Project Highlights
-
-- **🤖 Quantura** - AI-integrated management system for enterprise product management with intelligent automation
-- **🎙️ AI Voice Assistant** - Intelligent voice-controlled application system
-- **🏫 School Portal** - Comprehensive educational management platform built with JavaScript
-- **👁️ Computer Vision** - Image processing and computer vision projects using Python
-- **📝 Laporin** - Smart reporting system built with PHP
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📫 Let's Connect & Collaborate
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikyappmastering@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gilangrizky_000/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4E50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gilang-rizky.vercel.app/)
-
-</div>
-
-<div align="center">
-  
-### 💬 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
-  
-  **✨ Show some ❤️ by starring repositories you find interesting! ✨**
-  
-  ![Made with Love](https://img.shields.io/badge/Made%20with-Love-ff4e50?style=for-the-badge)
-  ![Powered by Coffee](https://img.shields.io/badge/Powered%20by-Coffee-efd65b?style=for-the-badge)
-  ![Built with AI](https://img.shields.io/badge/Built%20with-AI-00d9ff?style=for-the-badge)
-  
 </div>
 
 ---
 
+## ◈ GITHUB ANALYTICS
+
 <div align="center">
-  <sub>Built with 💖 by Gilang Rizky Ramadhan</sub>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilangrizkyr&layout=donut&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" height="200"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gilangrizkyr&theme=radical&hide_border=true&background=0d1117&stroke=00d9ff&ring=ff4e50&fire=ff4e50&currStreakNum=00d9ff&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9" height="200"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gilangrizkyr&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00d9ff&line=ff4e50&point=00d9ff&area_color=00d9ff" width="100%"/>
+</div>
+
+---
+
+## ◈ FEATURED PROJECTS
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Quantura — AI Management System
+> AI-integrated enterprise product management platform with intelligent automation & smart analytics.
+
+[![Repo](https://img.shields.io/badge/View_Repo-00d9ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/gilangrizkyr/Quantura)
+
+**Stack:** `JavaScript` `AI Integration` `Backend` `MySQL`
+
+</td>
+<td width="50%">
+
+### 🎙️ AI Voice Assistant
+> Intelligent voice-controlled application system powered by speech recognition & NLP.
+
+[![Repo](https://img.shields.io/badge/View_Repo-00d9ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/gilangrizkyr/Ai--Voice-Asissten)
+
+**Stack:** `Python` `AI/ML` `Speech Recognition`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏫 School Portal
+> Comprehensive educational management system — attendance, grades, schedules & more.
+
+[![Repo](https://img.shields.io/badge/View_Repo-00d9ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/gilangrizkyr/School-Portal)
+
+**Stack:** `JavaScript` `Laravel` `MySQL`
+
+</td>
+<td width="50%">
+
+### 👁️ Computer Vision Projects
+> Image processing & computer vision experiments using Python and deep learning.
+
+[![Repo](https://img.shields.io/badge/View_Repo-00d9ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/gilangrizkyr/computer-vision)
+
+**Stack:** `Python` `OpenCV` `Deep Learning`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📝 Laporin — Smart Reporting System
+> Streamlined reporting system for efficient data collection and submission workflows.
+
+[![Repo](https://img.shields.io/badge/View_Repo-00d9ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/gilangrizkyr/Laporin)
+
+**Stack:** `PHP` `CodeIgniter` `MySQL`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## ◈ 2026 GOALS & ROADMAP
+
+<div align="center">
+
+| 🎯 Goal | 📊 Status | 🔥 Priority |
+|---|---|---|
+| Launch 3 AI-powered SaaS products | `🔄 In Progress` | 🔴 HIGH |
+| Master Computer Vision & Deep Learning | `📚 Learning` | 🔴 HIGH |
+| Contribute to major Open Source projects | `🔜 Planned` | 🟡 MED |
+| Build production-grade microservices | `🔄 In Progress` | 🔴 HIGH |
+| Reach 100 GitHub followers | `📈 Growing` | 🟢 LOW |
+
+</div>
+
+---
+
+## ◈ CURRENT FOCUS
+
+```yaml
+💡 What I'm working on:
+  - AI Voice Assistant System (Python + Speech Recognition)
+  - Quantura: AI-Integrated Management Platform
+  - School Portal: Full Educational Ecosystem
+  - Computer Vision: Real-time Image Processing
+
+📖 Currently Learning:
+  - Advanced React patterns & state management (Redux Toolkit)
+  - AI/ML model integration in production web apps
+  - Microservices architecture with Docker & APIs
+  - Deep Learning with PyTorch
+
+🎧 Currently Vibing To: Lo-fi hip hop while debugging...
+☕ Fuel: Coffee × ∞
+```
+
+---
+
+## ◈ CONTRIBUTION GRAPH
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
+
+---
+
+## ◈ LET'S BUILD TOGETHER
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1a2e&height=2&section=header" width="100%"/>
+
+<br/>
+
+> *"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."*
+
+<br/>
+
+**Got an idea? Let's collaborate! 🤝**
+
+<br/>
+
+[![Email Me](https://img.shields.io/badge/📧_Send_an_Email-ff4e50?style=for-the-badge&labelColor=0d1117)](mailto:ikyappmastering@gmail.com)
+[![DM on Instagram](https://img.shields.io/badge/📸_DM_on_Instagram-e1306c?style=for-the-badge&labelColor=0d1117)](https://www.instagram.com/gilangrizky_000/)
+[![Visit Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-00d9ff?style=for-the-badge&labelColor=0d1117)](https://gilang-rizky.vercel.app/)
+
+<br/>
+
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️%20+%20☕-ff4e50?style=flat-square&labelColor=0d1117)
+&nbsp;
+![Built with AI](https://img.shields.io/badge/Powered%20by-AI%20🤖-00d9ff?style=flat-square&labelColor=0d1117)
+&nbsp;
+![From Indonesia](https://img.shields.io/badge/From-🇮🇩%20Indonesia-white?style=flat-square&labelColor=0d1117)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=00d9ff&animation=twinkling&fontAlignY=70" width="100%" />
+</div>
+
+<div align="center">
+  <sub>✨ Built with 💙 by <strong>Gilang Rizky Ramadhan</strong> · <a href="https://gilang-rizky.vercel.app/">gilang-rizky.vercel.app</a></sub>
 </div>
