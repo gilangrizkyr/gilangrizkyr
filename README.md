@@ -21,12 +21,25 @@ I build production tools end-to-end: from a clinical app used by real healthcare
 
 ## Tech Stack
 
-**Languages:** PHP, JavaScript, Python, TypeScript
-**Frontend:** React, Next.js, Vite, Bootstrap, Tailwind
-**Backend:** Laravel, Node.js, Express
-**Database:** MySQL, PostgreSQL, MongoDB
-**Tools:** Git, Docker, Linux, Postman
-**AI / Computer Vision:** OpenCV, TensorFlow, PyTorch
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=php,js,python,ts" />
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind" />
+
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express" />
+
+**Database & Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,docker,linux,postman" />
+
+**AI / Computer Vision**
+<br>
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
 
 <br>
 
