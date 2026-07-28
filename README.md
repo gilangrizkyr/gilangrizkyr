@@ -50,6 +50,7 @@ I build production tools end-to-end: from a clinical app used by real healthcare
 | **[TemanNakes](https://github.com/gilangrizkyr/TemanNakes)** | Offline clinical assistant for Indonesian healthcare workers — drug reference, precision dose calculator, and patient data forms |
 | **[MyTools](https://github.com/gilangrizkyr/MyTools)** | Suite of client-side file optimization SDKs (image, PDF, video, Office docs, thumbnails, security) — published on NPM |
 | **[WA Gateway](https://github.com/gilangrizkyr/wagateaway)** | WhatsApp API gateway & notification server — token-based REST API, realtime WebSocket, dashboard UI |
+| **[gilang-storage-sdk](https://www.npmjs.com/package/gilang-storage-sdk)** | All-in-one storage SDK — security checks, compression, thumbnails, and video processing in one call. Published on NPM ([v1.1.0](https://github.com/gilangrizkyr/MyTools/releases/latest)) |
 
 <br>
 
