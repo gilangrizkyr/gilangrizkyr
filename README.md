@@ -2,9 +2,9 @@
 
 # Gilang Rizky Ramadhan
 
-### Full Stack Developer: turning inefficient workflows into systems people actually use
+### Full Stack Developer: mengubah alur kerja yang rumit menjadi sistem yang benar-benar dipakai
 
-Pontianak, West Kalimantan, Indonesia · Open to new opportunities
+Pontianak, Kalimantan Barat, Indonesia · Terbuka untuk peluang baru
 
 [![Email](https://img.shields.io/badge/Email-gilangrizkyramadhan34%40gmail.com-2F80ED?style=flat-square&logo=gmail&logoColor=white)](mailto:gilangrizkyramadhan34@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gilang--rizky-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilang-rizky-39a421297)
@@ -14,32 +14,32 @@ Pontianak, West Kalimantan, Indonesia · Open to new opportunities
 
 <br>
 
-## About Me
+## Tentang Saya
 
-I build web applications end to end: requirements, frontend, backend, database, and deployment.
-Since 2022 I have delivered 10+ client projects (mostly company inventory systems) and, at a government investment agency, I develop and maintain 8 public-service applications.
+Saya membangun aplikasi web dari ujung ke ujung: analisis kebutuhan, frontend, backend, database, sampai deployment.
+Sejak 2022 saya mengerjakan 10+ proyek klien (umumnya sistem inventori perusahaan) dan saat ini mengembangkan serta merawat 8 aplikasi layanan publik di sebuah instansi pemerintah provinsi.
 
-I like to understand how people really work first, find the steps that can be simpler, and then turn that into a clean, reliable system.
+Saya suka memahami cara orang bekerja lebih dulu, mencari langkah yang bisa disederhanakan, lalu mengubahnya menjadi sistem yang rapi dan andal.
 
-BNSP-certified **Programmer** (Software Development) and **Program Analyst**.
+Bersertifikasi BNSP sebagai **Programmer** (Software Development) dan **Program Analyst**.
 
 <br>
 
-## Experience
+## Pengalaman
 
-**IT Expert (Full Stack Developer)** · DPMPTSP South Kalimantan Province · Nov 2025 – Present
-- Built 5 applications from scratch (Investment Realization Data, Public Complaint System, Business Survey, MPP Chat, Geotagging App with Leaflet for RDTR/RTRW spatial data) and own the source code of 3 released applications.
-- Migrated the agency profile website from CodeIgniter 4 to React.js.
-- Designed PostgreSQL/MySQL schemas, deployed with Docker, and managed VPS servers over SSH.
+**Tenaga Ahli IT (Full Stack Developer)** · Instansi Pemerintah Provinsi · Nov 2025 – Sekarang
+- Membangun 5 aplikasi dari nol (Data Investasi Realisasi, Sistem Pengaduan, Survei Perusahaan, MPP Chat, dan Aplikasi Geotagging berbasis Leaflet untuk data tata ruang RDTR/RTRW) serta memegang source code 3 aplikasi yang sudah rilis.
+- Memigrasikan website profil instansi dari CodeIgniter 4 ke React.js.
+- Merancang skema PostgreSQL/MySQL, men-deploy dengan Docker, dan mengelola server VPS lewat SSH.
 
 **Freelance Full Stack Developer** · 2022 – 2025
-- 10+ client projects, mostly company inventory systems, from requirements analysis to deployment.
+- 10+ proyek klien, umumnya sistem inventori perusahaan, dari analisis kebutuhan sampai deployment.
 
 <br>
 
 ## Tech Stack
 
-**Languages**
+**Bahasa**
 <br>
 <img src="https://skillicons.dev/icons?i=js,ts,php,dart,html,css" />
 
@@ -51,7 +51,7 @@ BNSP-certified **Programmer** (Software Development) and **Program Analyst**.
 <br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,codeigniter" />
 
-**Databases**
+**Database**
 <br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
@@ -61,19 +61,19 @@ BNSP-certified **Programmer** (Software Development) and **Program Analyst**.
 
 <br>
 
-## Featured Projects
+## Proyek Pilihan
 
-| Project | Description |
+| Proyek | Deskripsi |
 |---|---|
-| **[WA Gateway](https://github.com/gilangrizkyr/wagateaway)** | WhatsApp API gateway and notification server: token-based REST API, realtime WebSocket, and dashboard UI. Built to streamline unstructured business workflows. |
-| **[gilang-storage-sdk](https://www.npmjs.com/package/gilang-storage-sdk)** | All-in-one client-side storage SDK: security checks, compression, thumbnails, and video processing in one call. Published on NPM ([v1.1.0](https://github.com/gilangrizkyr/MyTools/releases/latest)). |
-| **[MyTools](https://github.com/gilangrizkyr/MyTools)** | Suite of client-side file optimization SDKs (image, PDF, video, Office documents, thumbnails, security). |
-| **SurveiCoreSystem** | Multi-tenant survey platform with realtime analytics (PHP). Previously used by 10+ tenants. |
-| **[TemanNakes](https://github.com/gilangrizkyr/TemanNakes)** | *In development.* Offline clinical assistant for Indonesian healthcare workers: drug reference, dose calculator, and patient data forms (Dart). |
+| **[WA Gateway](https://github.com/gilangrizkyr/wagateaway)** | API gateway dan server notifikasi WhatsApp: REST API berbasis token, WebSocket realtime, dan dashboard. Dibuat untuk menyederhanakan alur bisnis yang tidak terarah. |
+| **[gilang-storage-sdk](https://www.npmjs.com/package/gilang-storage-sdk)** | SDK penyimpanan client-side serba ada: pengecekan keamanan, kompresi, thumbnail, dan pemrosesan video dalam satu panggilan. Dipublikasikan di NPM ([v1.1.0](https://github.com/gilangrizkyr/MyTools/releases/latest)). |
+| **[MyTools](https://github.com/gilangrizkyr/MyTools)** | Kumpulan SDK optimasi file client-side (gambar, PDF, video, dokumen Office, thumbnail, keamanan). |
+| **SurveiCoreSystem** | Platform survei multi-tenant dengan analitik realtime (PHP). Pernah dipakai 10+ tenant. |
+| **[TemanNakes](https://github.com/gilangrizkyr/TemanNakes)** | *Dalam pengembangan.* Asisten klinis offline untuk tenaga kesehatan Indonesia: referensi obat, kalkulator dosis, dan formulir data pasien (Dart). |
 
 <br>
 
-## Currently
+## Saat Ini
 
-- Developing TemanNakes
-- Learning advanced React patterns and Docker/microservices
+- Mengembangkan TemanNakes
+- Mendalami pola React tingkat lanjut dan Docker/microservices
