@@ -1,12 +1,14 @@
 <div align="center">
 
-# Hi there, I'm Gilang Rizky Ramadhan
+# Gilang Rizky Ramadhan
 
-### Full Stack Developer turning ideas into working products — from clinical tools to client-side SDKs
+### Full Stack Developer: turning inefficient workflows into systems people actually use
 
-[![Email](https://img.shields.io/badge/Email-ikyappmastering%40gmail.com-2F80ED?style=flat-square&logo=gmail&logoColor=white)](mailto:ikyappmastering@gmail.com)
+Pontianak, West Kalimantan, Indonesia · Open to new opportunities
+
+[![Email](https://img.shields.io/badge/Email-gilangrizkyramadhan34%40gmail.com-2F80ED?style=flat-square&logo=gmail&logoColor=white)](mailto:gilangrizkyramadhan34@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gilang--rizky-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilang-rizky-39a421297)
 [![GitHub](https://img.shields.io/badge/GitHub-gilangrizkyr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gilangrizkyr)
-[![Instagram](https://img.shields.io/badge/Instagram-gilangrizky__000-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gilangrizky_000/)
 
 </div>
 
@@ -14,8 +16,24 @@
 
 ## About Me
 
-Full Stack Developer based in Pontianak, Kalimantan Barat, Indonesia — open to new opportunities.
-I build production tools end-to-end: from a clinical app used by real healthcare workers, to a suite of privacy-first file optimization SDKs, to backend integrations like WhatsApp API gateways.
+I build web applications end to end: requirements, frontend, backend, database, and deployment.
+Since 2022 I have delivered 10+ client projects (mostly company inventory systems) and, at a government investment agency, I develop and maintain 8 public-service applications.
+
+I like to understand how people really work first, find the steps that can be simpler, and then turn that into a clean, reliable system.
+
+BNSP-certified **Programmer** (Software Development) and **Program Analyst**.
+
+<br>
+
+## Experience
+
+**IT Expert (Full Stack Developer)** · DPMPTSP South Kalimantan Province · Nov 2025 – Present
+- Built 5 applications from scratch (Investment Realization Data, Public Complaint System, Business Survey, MPP Chat, Geotagging App with Leaflet for RDTR/RTRW spatial data) and own the source code of 3 released applications.
+- Migrated the agency profile website from CodeIgniter 4 to React.js.
+- Designed PostgreSQL/MySQL schemas, deployed with Docker, and managed VPS servers over SSH.
+
+**Freelance Full Stack Developer** · 2022 – 2025
+- 10+ client projects, mostly company inventory systems, from requirements analysis to deployment.
 
 <br>
 
@@ -23,23 +41,23 @@ I build production tools end-to-end: from a clinical app used by real healthcare
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=php,js,python,ts" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,dart,html,css" />
 
 **Frontend**
 <br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
 
 **Backend**
 <br>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,codeigniter" />
 
-**Database & Tools**
+**Databases**
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,docker,linux,postman" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
-**AI / Computer Vision**
+**Tools & DevOps**
 <br>
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" />
 
 <br>
 
@@ -47,14 +65,15 @@ I build production tools end-to-end: from a clinical app used by real healthcare
 
 | Project | Description |
 |---|---|
-| **[TemanNakes](https://github.com/gilangrizkyr/TemanNakes)** | Offline clinical assistant for Indonesian healthcare workers — drug reference, precision dose calculator, and patient data forms |
-| **[MyTools](https://github.com/gilangrizkyr/MyTools)** | Suite of client-side file optimization SDKs (image, PDF, video, Office docs, thumbnails, security) — published on NPM |
-| **[WA Gateway](https://github.com/gilangrizkyr/wagateaway)** | WhatsApp API gateway & notification server — token-based REST API, realtime WebSocket, dashboard UI |
-| **[gilang-storage-sdk](https://www.npmjs.com/package/gilang-storage-sdk)** | All-in-one storage SDK — security checks, compression, thumbnails, and video processing in one call. Published on NPM ([v1.1.0](https://github.com/gilangrizkyr/MyTools/releases/latest)) |
+| **[WA Gateway](https://github.com/gilangrizkyr/wagateaway)** | WhatsApp API gateway and notification server: token-based REST API, realtime WebSocket, and dashboard UI. Built to streamline unstructured business workflows. |
+| **[gilang-storage-sdk](https://www.npmjs.com/package/gilang-storage-sdk)** | All-in-one client-side storage SDK: security checks, compression, thumbnails, and video processing in one call. Published on NPM ([v1.1.0](https://github.com/gilangrizkyr/MyTools/releases/latest)). |
+| **[MyTools](https://github.com/gilangrizkyr/MyTools)** | Suite of client-side file optimization SDKs (image, PDF, video, Office documents, thumbnails, security). |
+| **SurveiCoreSystem** | Multi-tenant survey platform with realtime analytics (PHP). Previously used by 10+ tenants. |
+| **[TemanNakes](https://github.com/gilangrizkyr/TemanNakes)** | *In development.* Offline clinical assistant for Indonesian healthcare workers: drug reference, dose calculator, and patient data forms (Dart). |
 
 <br>
 
 ## Currently
 
-- Building AI-powered SaaS products
-- Learning advanced React patterns, Docker/microservices, and Deep Learning with PyTorch
+- Developing TemanNakes
+- Learning advanced React patterns and Docker/microservices
