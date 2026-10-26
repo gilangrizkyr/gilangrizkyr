@@ -91,7 +91,7 @@ Asisten klinis offline untuk tenaga kesehatan Indonesia: referensi obat, kalkula
 
 ## Saat Ini
 
-- Mengembangkan TemanNakes
+- Digital Service
 - Mendalami pola React tingkat lanjut dan Docker/microservices
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=14213D&height=90&section=footer" width="100%" alt="" />
