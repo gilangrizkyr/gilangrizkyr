@@ -8,28 +8,26 @@
 
 <br><br>
 
-[![Email](https://img.shields.io/badge/Email-gilangrizkyramadhan34%40gmail.com-2F80ED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilangrizkyramadhan34@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gilang--rizky-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilang-rizky-39a421297)
-[![GitHub](https://img.shields.io/badge/GitHub-gilangrizkyr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gilangrizkyr)
+[Email](mailto:gilangrizkyramadhan34@gmail.com) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/gilang-rizky-39a421297) &nbsp;/&nbsp; [GitHub](https://github.com/gilangrizkyr)
 
-📍 Pontianak, Kalimantan Barat, Indonesia &nbsp;·&nbsp; 🟢 Terbuka untuk peluang baru
+Pontianak, Kalimantan Barat, Indonesia &nbsp;·&nbsp; Terbuka untuk peluang baru
 
 </div>
 
 <br>
 
-## 👋 Tentang Saya
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18&height=44&section=header&text=Tentang%20Saya&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlign=8&fontAlignY=55" width="100%" alt="Tentang Saya" />
 
 Saya membangun aplikasi web dari ujung ke ujung: analisis kebutuhan, frontend, backend, database, sampai deployment.
 
-- 🗓️ Sejak 2022 mengerjakan **10+ proyek klien**, umumnya sistem inventori perusahaan
-- 🏛️ Saat ini mengembangkan dan merawat **8 aplikasi layanan publik** di sebuah instansi pemerintah provinsi
-- 🔍 Suka memahami cara orang bekerja dulu, mencari langkah yang bisa disederhanakan, lalu mengubahnya jadi sistem yang andal
-- 🎓 Bersertifikasi BNSP: **Programmer** (Software Development) dan **Program Analyst**
+- Sejak 2022 mengerjakan **10+ proyek klien**, umumnya sistem inventori perusahaan
+- Saat ini mengembangkan dan merawat **8 aplikasi layanan publik** di sebuah instansi pemerintah provinsi
+- Suka memahami cara orang bekerja dulu, mencari langkah yang bisa disederhanakan, lalu mengubahnya jadi sistem yang andal
+- Bersertifikasi BNSP: **Programmer** (Software Development) dan **Program Analyst**
 
 <br>
 
-## 💼 Pengalaman
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18&height=44&section=header&text=Pengalaman&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlign=8&fontAlignY=55" width="100%" alt="Pengalaman" />
 
 **Tenaga Ahli IT (Full Stack Developer)** · Instansi Pemerintah Provinsi · *Nov 2025 – Sekarang*
 - Membangun 5 aplikasi dari nol (Data Investasi Realisasi, Sistem Pengaduan, Survei Perusahaan, MPP Chat, dan Aplikasi Geotagging berbasis Leaflet untuk data tata ruang RDTR/RTRW) serta memegang source code 3 aplikasi yang sudah rilis.
@@ -41,17 +39,39 @@ Saya membangun aplikasi web dari ujung ke ujung: analisis kebutuhan, frontend, b
 
 <br>
 
-## 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18&height=44&section=header&text=Tech%20Stack&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlign=8&fontAlignY=55" width="100%" alt="Tech Stack" />
 
-<div align="center">
+**Bahasa** &nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-14213D?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-14213D?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-14213D?style=flat-square)
+![Dart](https://img.shields.io/badge/Dart-14213D?style=flat-square)
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,dart,html,css,react,nextjs,tailwind,bootstrap,vite,nodejs,express,codeigniter,postgres,mysql,docker,linux,git,github,postman&perline=7" alt="Tech stack" />
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-1F6FB2?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-1F6FB2?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1F6FB2?style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1F6FB2?style=flat-square)
+![Leaflet](https://img.shields.io/badge/Leaflet-1F6FB2?style=flat-square)
 
-</div>
+**Backend** &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-14213D?style=flat-square)
+![Express](https://img.shields.io/badge/Express-14213D?style=flat-square)
+![CodeIgniter 4](https://img.shields.io/badge/CodeIgniter_4-14213D?style=flat-square)
+
+**Database** &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F6FB2?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-1F6FB2?style=flat-square)
+
+**DevOps** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-14213D?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux_VPS-14213D?style=flat-square)
+![Git](https://img.shields.io/badge/Git_&_GitHub-14213D?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-14213D?style=flat-square)
 
 <br>
 
-## 🚀 Proyek Pilihan
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18&height=44&section=header&text=Proyek%20Pilihan&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlign=8&fontAlignY=55" width="100%" alt="Proyek Pilihan" />
 
 | Proyek | Deskripsi |
 |---|---|
@@ -63,22 +83,9 @@ Saya membangun aplikasi web dari ujung ke ujung: analisis kebutuhan, frontend, b
 
 <br>
 
-## 📊 Statistik GitHub
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18&height=44&section=header&text=Saat%20Ini&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlign=8&fontAlignY=55" width="100%" alt="Saat Ini" />
 
-<div align="center">
+- Mengembangkan TemanNakes
+- Mendalami pola React tingkat lanjut dan Docker/microservices
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gilangrizkyr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilangrizkyr&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gilangrizkyr&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph" />
-
-</div>
-
-<br>
-
-## 🌱 Saat Ini
-
-- 🔨 Mengembangkan TemanNakes
-- 📚 Mendalami pola React tingkat lanjut dan Docker/microservices
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" width="100%" alt="" />
