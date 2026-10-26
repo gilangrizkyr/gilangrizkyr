@@ -1,67 +1,57 @@
 <div align="center">
 
-# Gilang Rizky Ramadhan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=210&section=header&text=Gilang%20Rizky%20Ramadhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=20&descAlignY=58" width="100%" alt="Gilang Rizky Ramadhan" />
 
-### Full Stack Developer: mengubah alur kerja yang rumit menjadi sistem yang benar-benar dipakai
+<a href="https://github.com/gilangrizkyr">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1200&color=1F6FB2&center=true&vCenter=true&width=640&lines=Mengubah+alur+kerja+yang+rumit+jadi+sistem+yang+rapi;React+%7C+Next.js+%7C+Node.js+%7C+CodeIgniter+4;PostgreSQL+%7C+MySQL+%7C+Docker;Bersertifikasi+BNSP+Programmer+%26+Program+Analyst" alt="Typing animation" />
+</a>
 
-Pontianak, Kalimantan Barat, Indonesia · Terbuka untuk peluang baru
+<br><br>
 
-[![Email](https://img.shields.io/badge/Email-gilangrizkyramadhan34%40gmail.com-2F80ED?style=flat-square&logo=gmail&logoColor=white)](mailto:gilangrizkyramadhan34@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gilang--rizky-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilang-rizky-39a421297)
-[![GitHub](https://img.shields.io/badge/GitHub-gilangrizkyr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gilangrizkyr)
+[![Email](https://img.shields.io/badge/Email-gilangrizkyramadhan34%40gmail.com-2F80ED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilangrizkyramadhan34@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gilang--rizky-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilang-rizky-39a421297)
+[![GitHub](https://img.shields.io/badge/GitHub-gilangrizkyr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gilangrizkyr)
+
+📍 Pontianak, Kalimantan Barat, Indonesia &nbsp;·&nbsp; 🟢 Terbuka untuk peluang baru
 
 </div>
 
 <br>
 
-## Tentang Saya
+## 👋 Tentang Saya
 
 Saya membangun aplikasi web dari ujung ke ujung: analisis kebutuhan, frontend, backend, database, sampai deployment.
-Sejak 2022 saya mengerjakan 10+ proyek klien (umumnya sistem inventori perusahaan) dan saat ini mengembangkan serta merawat 8 aplikasi layanan publik di sebuah instansi pemerintah provinsi.
 
-Saya suka memahami cara orang bekerja lebih dulu, mencari langkah yang bisa disederhanakan, lalu mengubahnya menjadi sistem yang rapi dan andal.
-
-Bersertifikasi BNSP sebagai **Programmer** (Software Development) dan **Program Analyst**.
+- 🗓️ Sejak 2022 mengerjakan **10+ proyek klien**, umumnya sistem inventori perusahaan
+- 🏛️ Saat ini mengembangkan dan merawat **8 aplikasi layanan publik** di sebuah instansi pemerintah provinsi
+- 🔍 Suka memahami cara orang bekerja dulu, mencari langkah yang bisa disederhanakan, lalu mengubahnya jadi sistem yang andal
+- 🎓 Bersertifikasi BNSP: **Programmer** (Software Development) dan **Program Analyst**
 
 <br>
 
-## Pengalaman
+## 💼 Pengalaman
 
-**Tenaga Ahli IT (Full Stack Developer)** · Instansi Pemerintah Provinsi · Nov 2025 – Sekarang
+**Tenaga Ahli IT (Full Stack Developer)** · Instansi Pemerintah Provinsi · *Nov 2025 – Sekarang*
 - Membangun 5 aplikasi dari nol (Data Investasi Realisasi, Sistem Pengaduan, Survei Perusahaan, MPP Chat, dan Aplikasi Geotagging berbasis Leaflet untuk data tata ruang RDTR/RTRW) serta memegang source code 3 aplikasi yang sudah rilis.
 - Memigrasikan website profil instansi dari CodeIgniter 4 ke React.js.
 - Merancang skema PostgreSQL/MySQL, men-deploy dengan Docker, dan mengelola server VPS lewat SSH.
 
-**Freelance Full Stack Developer** · 2022 – 2025
+**Freelance Full Stack Developer** · *2022 – 2025*
 - 10+ proyek klien, umumnya sistem inventori perusahaan, dari analisis kebutuhan sampai deployment.
 
 <br>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Bahasa**
-<br>
-<img src="https://skillicons.dev/icons?i=js,ts,php,dart,html,css" />
+<div align="center">
 
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,dart,html,css,react,nextjs,tailwind,bootstrap,vite,nodejs,express,codeigniter,postgres,mysql,docker,linux,git,github,postman&perline=7" alt="Tech stack" />
 
-**Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,codeigniter" />
-
-**Database**
-<br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-
-**Tools & DevOps**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" />
+</div>
 
 <br>
 
-## Proyek Pilihan
+## 🚀 Proyek Pilihan
 
 | Proyek | Deskripsi |
 |---|---|
@@ -73,7 +63,22 @@ Bersertifikasi BNSP sebagai **Programmer** (Software Development) dan **Program 
 
 <br>
 
-## Saat Ini
+## 📊 Statistik GitHub
 
-- Mengembangkan TemanNakes
-- Mendalami pola React tingkat lanjut dan Docker/microservices
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gilangrizkyr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilangrizkyr&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gilangrizkyr&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph" />
+
+</div>
+
+<br>
+
+## 🌱 Saat Ini
+
+- 🔨 Mengembangkan TemanNakes
+- 📚 Mendalami pola React tingkat lanjut dan Docker/microservices
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=110&section=footer" width="100%" alt="" />
