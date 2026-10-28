@@ -8,37 +8,33 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&height=45&lines=Transforming+complex+business+workflows+into+clean+systems;Full+Stack+Developer+%7C+Go+(Golang)+%2B+React+%2B+Node.js;Actively+engineering+TailNews+(Go+%2B+Astro+SSR+%2B+Redis);BNSP+Certified+Programmer+%26+Systems+Analyst" alt="Dynamic Typing SVG" />
 </a>
 
-<br>
+<br><br>
 
-<!-- Premium Interactive Badges -->
+<!-- Pure Modern Vector Icons -->
 <p align="center">
-  <a href="https://gilangrizky.pages.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Portfolio-gilangrizky.pages.dev-00E5FF?style=for-the-badge&logo=cloudflarepages&logoColor=black&labelColor=070B14" alt="Live Portfolio" />
+  <a href="https://gilangrizky.pages.dev" target="_blank" title="Live Portfolio Website">
+    <img src="https://skillicons.dev/icons?i=cloudflare" alt="Portfolio" height="38" width="38" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/gilang-rizky-39a421297" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=070B14" alt="LinkedIn" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gilang-rizky-39a421297" target="_blank" title="LinkedIn Profile">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="38" width="38" />
   </a>
-  &nbsp;
-  <a href="mailto:gilangrizkyramadhan34@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_in_Touch-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=070B14" alt="Email" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gilangrizkyr" target="_blank" title="GitHub Profile">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="38" width="38" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:gilangrizkyramadhan34@gmail.com" title="Send Email">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="38" width="38" />
   </a>
 </p>
 
 <p align="center">
-  <b>Pontianak, West Kalimantan, Indonesia</b> &nbsp;•&nbsp; <span style="color:#00E5FF">Open to Opportunities</span>
+  <b>Pontianak, West Kalimantan, Indonesia</b> &nbsp;•&nbsp; Open to Opportunities
 </p>
 
 </div>
 
-
-<br>
-
-[Email](mailto:gilangrizkyramadhan34@gmail.com) &nbsp;&nbsp;|&nbsp;&nbsp; [Portfolio](https://gilangrizky.pages.dev) &nbsp;&nbsp;|&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/gilang-rizky-39a421297) &nbsp;&nbsp;|&nbsp;&nbsp; [GitHub](https://github.com/gilangrizkyr)
-
-Pontianak, West Kalimantan, Indonesia &nbsp;·&nbsp; Open to New Opportunities
-
-</div>
 
 <br>
 
