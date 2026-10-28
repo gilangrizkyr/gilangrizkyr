@@ -28,7 +28,7 @@ I engineer end-to-end web applications: stakeholder requirement analysis, fronte
 
 <br>
 
-## Currently Developing 🚀
+## Currently Developing
 
 - **[TailNews](https://github.com/gilangrizkyr/TailNews)** *(Active Development)*  
   A modern, dynamic news platform engineered for peak performance and SEO. Features a high-speed Go (Golang) REST API, Astro SSR frontend, React.js management portal, MySQL database, and Redis multi-layer caching.
