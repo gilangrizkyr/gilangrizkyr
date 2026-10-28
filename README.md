@@ -1,10 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=14213D&height=200&section=header&text=Gilang%20Rizky%20Ramadhan&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descColor=FFFFFF&descAlignY=60" width="100%" alt="Gilang Rizky Ramadhan, Full Stack Developer" />
+<!-- Luxury Gradient Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,45:0C1E38,100:0284C7&height=220&section=header&text=Gilang%20Rizky%20Ramadhan&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Engineer&descSize=19&descColor=00E5FF&descAlignY=62" width="100%" alt="Gilang Rizky Ramadhan, Full Stack Developer" />
 
+<!-- Modern JetBrains Mono Dynamic Typing -->
 <a href="https://github.com/gilangrizkyr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1500&color=2F81C4&center=true&vCenter=true&width=760&height=40&lines=Transforming+complex+workflows+into+clean+systems;Currently+building+TailNews+(Go+%2B+Astro+%2B+Redis);React+%7C+Next.js+%7C+Go+%7C+Node.js+%7C+TypeScript;PostgreSQL+%7C+MySQL+%7C+Docker+%7C+Linux+VPS;BNSP+Certified+Programmer+%26+Program+Analyst" alt="Transforming complex workflows into clean systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&height=45&lines=Transforming+complex+business+workflows+into+clean+systems;Full+Stack+Developer+%7C+Go+(Golang)+%2B+React+%2B+Node.js;Actively+engineering+TailNews+(Go+%2B+Astro+SSR+%2B+Redis);BNSP+Certified+Programmer+%26+Systems+Analyst" alt="Dynamic Typing SVG" />
 </a>
+
+<br>
+
+<!-- Premium Interactive Badges -->
+<p align="center">
+  <a href="https://gilangrizky.pages.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-gilangrizky.pages.dev-00E5FF?style=for-the-badge&logo=cloudflarepages&logoColor=black&labelColor=070B14" alt="Live Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/gilang-rizky-39a421297" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=070B14" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:gilangrizkyramadhan34@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=070B14" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Pontianak, West Kalimantan, Indonesia</b> &nbsp;•&nbsp; <span style="color:#00E5FF">Open to Opportunities</span>
+</p>
+
+</div>
+
 
 <br>
 
